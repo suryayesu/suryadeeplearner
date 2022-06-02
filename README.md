@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @suryayesu
-- 👀 I’m interested in Machine Learning & Python programming
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Machine Learning,Deep learning & Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryayesu85@gmail.com
 
