@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suryayesu
+- 👋 Hi, I’m @suryadeeplearner
 - 👀 I’m interested in Machine Learning,Deep learning & Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryayesu85@gmail.com
